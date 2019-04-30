@@ -1,4 +1,4 @@
-### Indepth reateam
+### Indepth redteam
 https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
 # About /?
