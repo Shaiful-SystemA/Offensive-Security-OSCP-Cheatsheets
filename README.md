@@ -1,4 +1,4 @@
-### Indepth redteam <<This Is Great>>
+### Indepth redteam {{Great}}
 https://ired.team/offensive-security-experiments/offensive-security-cheetsheets
 
 # About /?
